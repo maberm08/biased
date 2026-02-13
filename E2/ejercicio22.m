@@ -87,11 +87,11 @@ gif_deep = fullfile(outDir, sprintf('nn_deep_2_10_10_1_%s.gif', hiddenAct));
 figure('Color','w');
 subplot(1,2,1);
 plot_plane(X,y,GX,GY,G,gx,gy,theta_wide,model_wide,c0_pt,c1_pt,c0_bg,c1_bg,umbral);
-title(sprintf('ANCHA 2-10-1 | oculta: %s', upper(hiddenAct)));
+title(sprintf('ANCHA 2-10-1'));
 
 subplot(1,2,2);
 plot_plane(X,y,GX,GY,G,gx,gy,theta_deep,model_deep,c0_pt,c1_pt,c0_bg,c1_bg,umbral);
-title(sprintf('PROFUNDA 2-10-10-1 | oculta: %s', upper(hiddenAct)));
+title(sprintf('PROFUNDA 2-10-10-1 '));
 
 fprintf('\nListo.\n');
 fprintf('GIF WIDE: %s\n', gif_wide);
@@ -142,7 +142,7 @@ function [theta, loss_hist] = train_and_gif(X,y,G,gx,gy,model,c0_pt,c1_pt,c0_bg,
         else
             archTxt = sprintf('2-%d-%d-1', model.nh1, model.nh2);
         end
-        title(ax1, sprintf('%s | Hidden: %s | Época %d | L=%.4f | eta=%.4g', archTxt, model.hidden, e, L, eta));
+        title(ax1, sprintf('%s | %s | Época %d | L=%.4f', archTxt, model.hidden, e));
         hold(ax1,'off');
 
         ax2 = subplot(1,2,2); hold(ax2,'on'); grid(ax2,'on');
