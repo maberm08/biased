@@ -319,4 +319,3 @@ function drawDataCircle(ax, x, y, diam, faceColor)
         'EdgeColor',faceColor, ...
         'LineWidth',1.0);
 end
-
