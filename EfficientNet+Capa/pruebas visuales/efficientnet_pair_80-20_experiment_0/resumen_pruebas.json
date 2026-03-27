@@ -1,0 +1,642 @@
+[
+  {
+    "item_uuid": "1ABCBD0D-E9EC-4C91-9217-D80E0B067C59",
+    "photo_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_image_base\\1\\Aphek 52_photoBase_itemUUID_1ABCBD0D-E9EC-4C91-9217-D80E0B067C59_photoUUID_0C1D3020-0B13-4E39-9A41-C4117ADC3A37.tif",
+    "drawing_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_drawing_base\\1\\Aphek 52_drawingBase_itemUUID_1ABCBD0D-E9EC-4C91-9217-D80E0B067C59_photoUUID_0EFC6FB7-19A4-4864-BD0A-A6E7D12576D2.tif",
+    "predicted_label": "sa",
+    "true_label": "anthropomorphic",
+    "scores": [
+      {
+        "class_idx": 9,
+        "label": "sa",
+        "score": 0.29000115394592285,
+        "probability": 0.7313219308853149,
+        "prototype_distance": 0.14215391874313354
+      },
+      {
+        "class_idx": 1,
+        "label": "anthropomorphic",
+        "score": 0.942602276802063,
+        "probability": 0.08437451720237732,
+        "prototype_distance": 0.17984530329704285
+      },
+      {
+        "class_idx": 3,
+        "label": "beetle",
+        "score": 0.949169397354126,
+        "probability": 0.07344382256269455,
+        "prototype_distance": 0.15075471997261047
+      },
+      {
+        "class_idx": 4,
+        "label": "bird",
+        "score": 0.9867960214614868,
+        "probability": 0.04002626985311508,
+        "prototype_distance": 0.17881518602371216
+      },
+      {
+        "class_idx": 8,
+        "label": "lion",
+        "score": 1.0262452363967896,
+        "probability": 0.014433883130550385,
+        "prototype_distance": 0.27119407057762146
+      },
+      {
+        "class_idx": 0,
+        "label": "ankh",
+        "score": 1.0272881984710693,
+        "probability": 0.01007323618978262,
+        "prototype_distance": 0.24907603859901428
+      },
+      {
+        "class_idx": 2,
+        "label": "bands",
+        "score": 1.0352935791015625,
+        "probability": 0.01415974274277687,
+        "prototype_distance": 0.3296886682510376
+      },
+      {
+        "class_idx": 6,
+        "label": "cross",
+        "score": 1.0386569499969482,
+        "probability": 0.01569431647658348,
+        "prototype_distance": 0.3623420000076294
+      },
+      {
+        "class_idx": 7,
+        "label": "ibex",
+        "score": 1.046107530593872,
+        "probability": 0.0045495242811739445,
+        "prototype_distance": 0.3377138078212738
+      },
+      {
+        "class_idx": 5,
+        "label": "circles",
+        "score": 1.0544602870941162,
+        "probability": 0.011922680772840977,
+        "prototype_distance": 0.44255271553993225
+      }
+    ],
+    "board_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\PROPIOS\\EFFICIENTNET_ARTEFACTOS\\pruebas visuales\\efficientnet_pair_80-20_experiment_0\\ejemplo_01_1abcbd0d-e9ec-4c91-9217-d80e0b067c59_pred_sa_real_anthropomorphic.png"
+  },
+  {
+    "item_uuid": "27E9156F-5FF1-4FB5-B0D0-0E32490EDD44",
+    "photo_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_image_base\\1\\Jerusalem 144_photoBase_itemUUID_27E9156F-5FF1-4FB5-B0D0-0E32490EDD44_photoUUID_DC1ACF49-D17B-4BA6-8381-F0136AAD4496.tif",
+    "drawing_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_drawing_base\\1\\Jerusalem 144_drawingBase_itemUUID_27E9156F-5FF1-4FB5-B0D0-0E32490EDD44_photoUUID_D1931D8D-58D8-484A-BB98-517DCED28AA2.tif",
+    "predicted_label": "sa",
+    "true_label": "bird",
+    "scores": [
+      {
+        "class_idx": 9,
+        "label": "sa",
+        "score": 0.5235862731933594,
+        "probability": 0.49817442893981934,
+        "prototype_distance": 0.14507128298282623
+      },
+      {
+        "class_idx": 8,
+        "label": "lion",
+        "score": 0.9034398198127747,
+        "probability": 0.1308174580335617,
+        "prototype_distance": 0.22838205099105835
+      },
+      {
+        "class_idx": 5,
+        "label": "circles",
+        "score": 0.9301280379295349,
+        "probability": 0.10950209945440292,
+        "prototype_distance": 0.264200896024704
+      },
+      {
+        "class_idx": 0,
+        "label": "ankh",
+        "score": 0.9380959868431091,
+        "probability": 0.09578844159841537,
+        "prototype_distance": 0.22589603066444397
+      },
+      {
+        "class_idx": 4,
+        "label": "bird",
+        "score": 0.9671106338500977,
+        "probability": 0.0603429339826107,
+        "prototype_distance": 0.18302342295646667
+      },
+      {
+        "class_idx": 2,
+        "label": "bands",
+        "score": 0.9741219878196716,
+        "probability": 0.06506761163473129,
+        "prototype_distance": 0.26126381754875183
+      },
+      {
+        "class_idx": 7,
+        "label": "ibex",
+        "score": 1.0367084741592407,
+        "probability": 0.012671256437897682,
+        "prototype_distance": 0.32919779419898987
+      },
+      {
+        "class_idx": 3,
+        "label": "beetle",
+        "score": 1.0424416065216064,
+        "probability": 0.0061365882866084576,
+        "prototype_distance": 0.3238546550273895
+      },
+      {
+        "class_idx": 6,
+        "label": "cross",
+        "score": 1.047542929649353,
+        "probability": 0.01507071778178215,
+        "prototype_distance": 0.41742435097694397
+      },
+      {
+        "class_idx": 1,
+        "label": "anthropomorphic",
+        "score": 1.050934076309204,
+        "probability": 0.006428360939025879,
+        "prototype_distance": 0.382416307926178
+      }
+    ],
+    "board_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\PROPIOS\\EFFICIENTNET_ARTEFACTOS\\pruebas visuales\\efficientnet_pair_80-20_experiment_0\\ejemplo_02_27e9156f-5ff1-4fb5-b0d0-0e32490edd44_pred_sa_real_bird.png"
+  },
+  {
+    "item_uuid": "2EE01F74-99D4-425F-8BDD-65F01E75407A",
+    "photo_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_image_base\\1\\Gezer 276_photoBase_itemUUID_2EE01F74-99D4-425F-8BDD-65F01E75407A_photoUUID_8A3FD5AD-DF4E-494D-BE8C-9AE5F492CFC2.tif",
+    "drawing_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_drawing_base\\1\\Gezer 276_drawingBase_itemUUID_2EE01F74-99D4-425F-8BDD-65F01E75407A_photoUUID_44FDF61D-357E-4123-AD85-0EE4E97E3989.tif",
+    "predicted_label": "circles",
+    "true_label": "circles",
+    "scores": [
+      {
+        "class_idx": 5,
+        "label": "circles",
+        "score": 0.2407788336277008,
+        "probability": 0.7763493061065674,
+        "prototype_distance": 0.11418753862380981
+      },
+      {
+        "class_idx": 8,
+        "label": "lion",
+        "score": 0.9797120094299316,
+        "probability": 0.06480403989553452,
+        "prototype_distance": 0.2967734634876251
+      },
+      {
+        "class_idx": 4,
+        "label": "bird",
+        "score": 0.9844313859939575,
+        "probability": 0.06275833398103714,
+        "prototype_distance": 0.3145979940891266
+      },
+      {
+        "class_idx": 9,
+        "label": "sa",
+        "score": 1.0155032873153687,
+        "probability": 0.04074113070964813,
+        "prototype_distance": 0.37496280670166016
+      },
+      {
+        "class_idx": 0,
+        "label": "ankh",
+        "score": 1.0438590049743652,
+        "probability": 0.013649257831275463,
+        "prototype_distance": 0.3833886981010437
+      },
+      {
+        "class_idx": 2,
+        "label": "bands",
+        "score": 1.0494425296783447,
+        "probability": 0.012416897341609001,
+        "prototype_distance": 0.41239577531814575
+      },
+      {
+        "class_idx": 3,
+        "label": "beetle",
+        "score": 1.0557661056518555,
+        "probability": 0.007176791783422232,
+        "prototype_distance": 0.4196195900440216
+      },
+      {
+        "class_idx": 6,
+        "label": "cross",
+        "score": 1.0558916330337524,
+        "probability": 0.012547075748443604,
+        "prototype_distance": 0.4562581181526184
+      },
+      {
+        "class_idx": 7,
+        "label": "ibex",
+        "score": 1.0583304166793823,
+        "probability": 0.005724492482841015,
+        "prototype_distance": 0.4270324409008026
+      },
+      {
+        "class_idx": 1,
+        "label": "anthropomorphic",
+        "score": 1.0700054168701172,
+        "probability": 0.0038325784262269735,
+        "prototype_distance": 0.4922531843185425
+      }
+    ],
+    "board_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\PROPIOS\\EFFICIENTNET_ARTEFACTOS\\pruebas visuales\\efficientnet_pair_80-20_experiment_0\\ejemplo_03_2ee01f74-99d4-425f-8bdd-65f01e75407a_pred_circles_real_circles.png"
+  },
+  {
+    "item_uuid": "5F363969-A2A0-40F8-B77D-D51533F1D6E9",
+    "photo_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_image_base\\1\\Hazor 118_photoBase_itemUUID_5F363969-A2A0-40F8-B77D-D51533F1D6E9_photoUUID_AA32BDFC-2E35-4231-8532-6D47D58DC41B.tif",
+    "drawing_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_drawing_base\\1\\Hazor 118_drawingBase_itemUUID_5F363969-A2A0-40F8-B77D-D51533F1D6E9_photoUUID_3D872B1A-7529-463D-B862-679F5E027D41.tif",
+    "predicted_label": "ankh",
+    "true_label": "beetle",
+    "scores": [
+      {
+        "class_idx": 0,
+        "label": "ankh",
+        "score": 0.520749568939209,
+        "probability": 0.4941951036453247,
+        "prototype_distance": 0.09963122755289078
+      },
+      {
+        "class_idx": 6,
+        "label": "cross",
+        "score": 0.8463459014892578,
+        "probability": 0.1883474588394165,
+        "prototype_distance": 0.23128890991210938
+      },
+      {
+        "class_idx": 9,
+        "label": "sa",
+        "score": 0.9410391449928284,
+        "probability": 0.09033101052045822,
+        "prototype_distance": 0.20913445949554443
+      },
+      {
+        "class_idx": 2,
+        "label": "bands",
+        "score": 0.9625810980796814,
+        "probability": 0.08287204802036285,
+        "prototype_distance": 0.3030208349227905
+      },
+      {
+        "class_idx": 5,
+        "label": "circles",
+        "score": 0.9782928824424744,
+        "probability": 0.06886864453554153,
+        "prototype_distance": 0.3144102990627289
+      },
+      {
+        "class_idx": 4,
+        "label": "bird",
+        "score": 1.011531949043274,
+        "probability": 0.031606171280145645,
+        "prototype_distance": 0.28758764266967773
+      },
+      {
+        "class_idx": 7,
+        "label": "ibex",
+        "score": 1.0303527116775513,
+        "probability": 0.020696762949228287,
+        "prototype_distance": 0.3403301537036896
+      },
+      {
+        "class_idx": 3,
+        "label": "beetle",
+        "score": 1.0368164777755737,
+        "probability": 0.005311833694577217,
+        "prototype_distance": 0.28085562586784363
+      },
+      {
+        "class_idx": 1,
+        "label": "anthropomorphic",
+        "score": 1.0450259447097778,
+        "probability": 0.009174168109893799,
+        "prototype_distance": 0.3613344430923462
+      },
+      {
+        "class_idx": 8,
+        "label": "lion",
+        "score": 1.0481656789779663,
+        "probability": 0.00859670527279377,
+        "prototype_distance": 0.3784160614013672
+      }
+    ],
+    "board_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\PROPIOS\\EFFICIENTNET_ARTEFACTOS\\pruebas visuales\\efficientnet_pair_80-20_experiment_0\\ejemplo_04_5f363969-a2a0-40f8-b77d-d51533f1d6e9_pred_ankh_real_beetle.png"
+  },
+  {
+    "item_uuid": "746F89FC-C63E-4CD3-8FE5-08AC6C640B4B",
+    "photo_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_image_base\\1\\Deir el-Balaḥ 57_photoBase_itemUUID_746F89FC-C63E-4CD3-8FE5-08AC6C640B4B_photoUUID_60D956B6-F233-471D-9DC6-906A3DDA4ED8.tif",
+    "drawing_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_drawing_base\\1\\Deir el-Balaḥ 57_drawingBase_itemUUID_746F89FC-C63E-4CD3-8FE5-08AC6C640B4B_photoUUID_63E40F24-4A63-485B-9FB3-44C65785023A.tif",
+    "predicted_label": "ankh",
+    "true_label": "ankh",
+    "scores": [
+      {
+        "class_idx": 0,
+        "label": "ankh",
+        "score": 0.049142178148031235,
+        "probability": 0.959300696849823,
+        "prototype_distance": 0.05628582462668419
+      },
+      {
+        "class_idx": 3,
+        "label": "beetle",
+        "score": 1.0315675735473633,
+        "probability": 0.005428599659353495,
+        "prototype_distance": 0.2466411143541336
+      },
+      {
+        "class_idx": 1,
+        "label": "anthropomorphic",
+        "score": 1.0512945652008057,
+        "probability": 0.0019195639761164784,
+        "prototype_distance": 0.35476046800613403
+      },
+      {
+        "class_idx": 7,
+        "label": "ibex",
+        "score": 1.0515234470367432,
+        "probability": 0.0015915913973003626,
+        "prototype_distance": 0.35409969091415405
+      },
+      {
+        "class_idx": 8,
+        "label": "lion",
+        "score": 1.0516204833984375,
+        "probability": 0.0024388486053794622,
+        "prototype_distance": 0.36039555072784424
+      },
+      {
+        "class_idx": 4,
+        "label": "bird",
+        "score": 1.0553966760635376,
+        "probability": 0.002356896875426173,
+        "prototype_distance": 0.3850240707397461
+      },
+      {
+        "class_idx": 9,
+        "label": "sa",
+        "score": 1.0555310249328613,
+        "probability": 0.0024170714896172285,
+        "prototype_distance": 0.38632044196128845
+      },
+      {
+        "class_idx": 5,
+        "label": "circles",
+        "score": 1.0579535961151123,
+        "probability": 0.01173385139554739,
+        "prototype_distance": 0.46458300948143005
+      },
+      {
+        "class_idx": 2,
+        "label": "bands",
+        "score": 1.064324140548706,
+        "probability": 0.007099393755197525,
+        "prototype_distance": 0.47615712881088257
+      },
+      {
+        "class_idx": 6,
+        "label": "cross",
+        "score": 1.0658878087997437,
+        "probability": 0.005713318474590778,
+        "prototype_distance": 0.4773412346839905
+      }
+    ],
+    "board_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\PROPIOS\\EFFICIENTNET_ARTEFACTOS\\pruebas visuales\\efficientnet_pair_80-20_experiment_0\\ejemplo_05_746f89fc-c63e-4cd3-8fe5-08ac6c640b4b_pred_ankh_real_ankh.png"
+  },
+  {
+    "item_uuid": "9457914F-F48C-4656-904B-FB21012A4B6C",
+    "photo_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_image_base\\1\\Jericho 21_photoBase_itemUUID_9457914F-F48C-4656-904B-FB21012A4B6C_photoUUID_8FF34925-D321-4856-9ACD-CA7EDD9CF5E8.tif",
+    "drawing_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_drawing_base\\1\\Jericho 21_drawingBase_itemUUID_9457914F-F48C-4656-904B-FB21012A4B6C_photoUUID_BFD17CE1-2D79-4866-AD7B-AA3D4C0FE55B.tif",
+    "predicted_label": "bands",
+    "true_label": "bands",
+    "scores": [
+      {
+        "class_idx": 2,
+        "label": "bands",
+        "score": 0.0850423127412796,
+        "probability": 0.9212619662284851,
+        "prototype_distance": 0.04202850162982941
+      },
+      {
+        "class_idx": 4,
+        "label": "bird",
+        "score": 1.0183042287826538,
+        "probability": 0.022973256185650826,
+        "prototype_distance": 0.27518320083618164
+      },
+      {
+        "class_idx": 8,
+        "label": "lion",
+        "score": 1.032692551612854,
+        "probability": 0.016302689909934998,
+        "prototype_distance": 0.3266346752643585
+      },
+      {
+        "class_idx": 3,
+        "label": "beetle",
+        "score": 1.036285638809204,
+        "probability": 0.009516937658190727,
+        "prototype_distance": 0.30535054206848145
+      },
+      {
+        "class_idx": 9,
+        "label": "sa",
+        "score": 1.0432870388031006,
+        "probability": 0.007407108787447214,
+        "prototype_distance": 0.3379609286785126
+      },
+      {
+        "class_idx": 6,
+        "label": "cross",
+        "score": 1.044257402420044,
+        "probability": 0.00802544504404068,
+        "prototype_distance": 0.3485526442527771
+      },
+      {
+        "class_idx": 7,
+        "label": "ibex",
+        "score": 1.0484834909439087,
+        "probability": 0.002981186145916581,
+        "prototype_distance": 0.34309759736061096
+      },
+      {
+        "class_idx": 0,
+        "label": "ankh",
+        "score": 1.0497899055480957,
+        "probability": 0.004959298297762871,
+        "prototype_distance": 0.36499467492103577
+      },
+      {
+        "class_idx": 5,
+        "label": "circles",
+        "score": 1.0531495809555054,
+        "probability": 0.003897101618349552,
+        "prototype_distance": 0.3803115785121918
+      },
+      {
+        "class_idx": 1,
+        "label": "anthropomorphic",
+        "score": 1.0564771890640259,
+        "probability": 0.002675146795809269,
+        "prototype_distance": 0.39434894919395447
+      }
+    ],
+    "board_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\PROPIOS\\EFFICIENTNET_ARTEFACTOS\\pruebas visuales\\efficientnet_pair_80-20_experiment_0\\ejemplo_06_9457914f-f48c-4656-904b-fb21012a4b6c_pred_bands_real_bands.png"
+  },
+  {
+    "item_uuid": "A1E87735-2E75-46DB-B098-294C5393CFF3",
+    "photo_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_image_base\\1\\Tell el-ʿAjjul 525_photoBase_itemUUID_A1E87735-2E75-46DB-B098-294C5393CFF3_photoUUID_576469C1-FF1D-4A84-BCEB-C67A111BE08F.tif",
+    "drawing_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_drawing_base\\1\\Tell el-ʿAjjul 525_drawingBase_itemUUID_A1E87735-2E75-46DB-B098-294C5393CFF3_photoUUID_57393A76-769D-4008-9EA9-06C4687B4228.tif",
+    "predicted_label": "lion",
+    "true_label": "ibex",
+    "scores": [
+      {
+        "class_idx": 8,
+        "label": "lion",
+        "score": 0.3473054766654968,
+        "probability": 0.6648846864700317,
+        "prototype_distance": 0.08126767724752426
+      },
+      {
+        "class_idx": 1,
+        "label": "anthropomorphic",
+        "score": 0.9041056632995605,
+        "probability": 0.12583963572978973,
+        "prototype_distance": 0.19963526725769043
+      },
+      {
+        "class_idx": 4,
+        "label": "bird",
+        "score": 0.9574691653251648,
+        "probability": 0.06795866042375565,
+        "prototype_distance": 0.1695186197757721
+      },
+      {
+        "class_idx": 9,
+        "label": "sa",
+        "score": 0.9828037619590759,
+        "probability": 0.06775880604982376,
+        "prototype_distance": 0.337083637714386
+      },
+      {
+        "class_idx": 0,
+        "label": "ankh",
+        "score": 1.0359565019607544,
+        "probability": 0.01263726782053709,
+        "prototype_distance": 0.32395806908607483
+      },
+      {
+        "class_idx": 2,
+        "label": "bands",
+        "score": 1.0367004871368408,
+        "probability": 0.020651303231716156,
+        "prototype_distance": 0.38234519958496094
+      },
+      {
+        "class_idx": 3,
+        "label": "beetle",
+        "score": 1.0369524955749512,
+        "probability": 0.010511924512684345,
+        "prototype_distance": 0.31642937660217285
+      },
+      {
+        "class_idx": 7,
+        "label": "ibex",
+        "score": 1.0392818450927734,
+        "probability": 0.004178757779300213,
+        "prototype_distance": 0.2897375524044037
+      },
+      {
+        "class_idx": 5,
+        "label": "circles",
+        "score": 1.0521814823150635,
+        "probability": 0.014396242797374725,
+        "prototype_distance": 0.44385194778442383
+      },
+      {
+        "class_idx": 6,
+        "label": "cross",
+        "score": 1.0537221431732178,
+        "probability": 0.011182758957147598,
+        "prototype_distance": 0.43269941210746765
+      }
+    ],
+    "board_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\PROPIOS\\EFFICIENTNET_ARTEFACTOS\\pruebas visuales\\efficientnet_pair_80-20_experiment_0\\ejemplo_07_a1e87735-2e75-46db-b098-294c5393cff3_pred_lion_real_ibex.png"
+  },
+  {
+    "item_uuid": "CC28CE76-D44C-4904-96A5-898943D1FCB7",
+    "photo_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_image_base\\1\\Tell el-ʿAjjul 744_photoBase_itemUUID_CC28CE76-D44C-4904-96A5-898943D1FCB7_photoUUID_2E43C4C4-1228-4975-8BDF-31F054A36841.tif",
+    "drawing_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\cssl_dataset\\all_drawing_base\\1\\Tell el-ʿAjjul 744_drawingBase_itemUUID_CC28CE76-D44C-4904-96A5-898943D1FCB7_photoUUID_2061FC03-16BF-4D02-ABE6-E1FF1F452ABF.tif",
+    "predicted_label": "cross",
+    "true_label": "cross",
+    "scores": [
+      {
+        "class_idx": 6,
+        "label": "cross",
+        "score": 0.05321281775832176,
+        "probability": 0.9497485756874084,
+        "prototype_distance": 0.019742632284760475
+      },
+      {
+        "class_idx": 9,
+        "label": "sa",
+        "score": 1.0542521476745605,
+        "probability": 0.006186936516314745,
+        "prototype_distance": 0.4029274582862854
+      },
+      {
+        "class_idx": 3,
+        "label": "beetle",
+        "score": 1.0544184446334839,
+        "probability": 0.005513370502740145,
+        "prototype_distance": 0.3995455205440521
+      },
+      {
+        "class_idx": 1,
+        "label": "anthropomorphic",
+        "score": 1.056411623954773,
+        "probability": 0.007535244338214397,
+        "prototype_distance": 0.4263122081756592
+      },
+      {
+        "class_idx": 2,
+        "label": "bands",
+        "score": 1.056908369064331,
+        "probability": 0.009212321601808071,
+        "prototype_distance": 0.44080471992492676
+      },
+      {
+        "class_idx": 0,
+        "label": "ankh",
+        "score": 1.0570091009140015,
+        "probability": 0.0021016623359173536,
+        "prototype_distance": 0.39407140016555786
+      },
+      {
+        "class_idx": 5,
+        "label": "circles",
+        "score": 1.0590384006500244,
+        "probability": 0.005681454669684172,
+        "prototype_distance": 0.43146541714668274
+      },
+      {
+        "class_idx": 4,
+        "label": "bird",
+        "score": 1.0616892576217651,
+        "probability": 0.00441915076225996,
+        "prototype_distance": 0.44072243571281433
+      },
+      {
+        "class_idx": 8,
+        "label": "lion",
+        "score": 1.0653643608093262,
+        "probability": 0.004538802895694971,
+        "prototype_distance": 0.4660212993621826
+      },
+      {
+        "class_idx": 7,
+        "label": "ibex",
+        "score": 1.065550446510315,
+        "probability": 0.005062396172434092,
+        "prototype_distance": 0.4707522392272949
+      }
+    ],
+    "board_path": "C:\\Users\\mario\\Desktop\\UCM\\Taller de Tecno\\Arqueologia\\PROPIOS\\EFFICIENTNET_ARTEFACTOS\\pruebas visuales\\efficientnet_pair_80-20_experiment_0\\ejemplo_08_cc28ce76-d44c-4904-96a5-898943d1fcb7_pred_cross_real_cross.png"
+  }
+]
